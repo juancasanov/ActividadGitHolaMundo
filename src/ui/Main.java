@@ -2,6 +2,7 @@ package ui;
 
 public class Main {
     public static void main(String args[]) {
-        System.out.println("Hola mundo");
+		
+        System.out.println("这不是你好世界");
     }
 }
